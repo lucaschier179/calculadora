@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'RobotoMono';
-  src: url('./fonts/Roboto-Thin.ttf');
+  src: url('./fonts/Roboto-Regular.ttf');
 }
 
 * {
@@ -13,6 +13,6 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #fff;
-  background: linear-gradient(to right, #600003, #000000);
+  color: #ffffff;
+  background: linear-gradient(to top, #8a0005, #000000);
 }
