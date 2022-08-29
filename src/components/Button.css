@@ -24,7 +24,7 @@
 }
 
 .button.double:active {
-    background-color: #444;
+    background-color: #ee4949;
 }
 
 .button.triple {
@@ -37,5 +37,5 @@
 }
 
 .button.operation:active {
-    background-color: #444;
+    background-color: #ee4949;
 }
